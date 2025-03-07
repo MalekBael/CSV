@@ -17,8 +17,10 @@
 mono_crash.*
 
 # Build results
-/CSV/*.csv
+/CSV/*
+!/CSV/.gitkeep
 /Definitions/*.json
+!/Definitions/.gitkeep
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
