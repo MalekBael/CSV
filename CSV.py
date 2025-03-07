@@ -92,7 +92,7 @@ def generate_template_from_csv(csv_rows, sheet_name, csv_folder):
     return template
 
 def main(root_dir):
-    csv_folder = os.path.join(root_dir, "CVS")
+    csv_folder = os.path.join(root_dir, "CSV")
     output_folder = os.path.join(root_dir, "Definitions")
     os.makedirs(output_folder, exist_ok=True)
 
