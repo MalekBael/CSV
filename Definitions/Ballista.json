@@ -1,0 +1,22 @@
+{
+  "sheet": "Ballista",
+  "defaultColumn": "BNPC",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "BNPC"
+    },
+    {
+      "index": 2,
+      "name": "Near"
+    },
+    {
+      "index": 3,
+      "name": "Far"
+    },
+    {
+      "index": 4,
+      "name": "Angle"
+    }
+  ]
+}

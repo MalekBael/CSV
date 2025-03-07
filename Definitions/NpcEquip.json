@@ -1,0 +1,106 @@
+{
+  "sheet": "Npcequip",
+  "defaultColumn": "Model{MainHand}",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Model{MainHand}"
+    },
+    {
+      "index": 2,
+      "name": "Dye{MainHand}"
+    },
+    {
+      "index": 3,
+      "name": "Dye2{MainHand}"
+    },
+    {
+      "index": 4,
+      "name": "Model{OffHand}"
+    },
+    {
+      "index": 5,
+      "name": "Dye{OffHand}"
+    },
+    {
+      "index": 6,
+      "name": "Dye2{OffHand}"
+    },
+    {
+      "index": 7,
+      "name": "Model{Head}"
+    },
+    {
+      "index": 8,
+      "name": "Dye{Head}"
+    },
+    {
+      "index": 9,
+      "name": "Dye2{Head}"
+    },
+    {
+      "index": 10,
+      "name": "Visor"
+    },
+    {
+      "index": 11,
+      "name": "Model{Body}"
+    },
+    {
+      "index": 12,
+      "name": "Dye{Body}"
+    },
+    {
+      "index": 13,
+      "name": "Dye2{Body}"
+    },
+    {
+      "index": 14,
+      "name": "Model{Hands}"
+    },
+    {
+      "index": 15,
+      "name": "Dye{Hands}"
+    },
+    {
+      "index": 16,
+      "name": "Dye2{Hands}"
+    },
+    {
+      "index": 17,
+      "name": "Model{Legs}"
+    },
+    {
+      "index": 18,
+      "name": "Dye{Legs}"
+    },
+    {
+      "index": 19,
+      "name": "Dye2{Legs}"
+    },
+    {
+      "index": 20,
+      "name": "Model{Feet}"
+    },
+    {
+      "index": 21,
+      "name": "Dye{Feet}"
+    },
+    {
+      "index": 22,
+      "name": "Dye2{Feet}"
+    },
+    {
+      "index": 23,
+      "name": "Model{Ears}"
+    },
+    {
+      "index": 24,
+      "name": "Dye{Ears}"
+    },
+    {
+      "index": 25,
+      "name": "Dye2{Ears}"
+    }
+  ]
+}

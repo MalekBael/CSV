@@ -1,0 +1,30 @@
+{
+  "sheet": "Lobby",
+  "defaultColumn": "TYPE",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "TYPE"
+    },
+    {
+      "index": 2,
+      "name": "PARAM"
+    },
+    {
+      "index": 3,
+      "name": "LINK"
+    },
+    {
+      "index": 4,
+      "name": "Text"
+    },
+    {
+      "index": 5,
+      "name": "4"
+    },
+    {
+      "index": 6,
+      "name": "5"
+    }
+  ]
+}

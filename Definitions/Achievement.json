@@ -1,0 +1,93 @@
+{
+  "sheet": "Achievement",
+  "defaultColumn": "Name",
+  "definitions": [
+    {
+      "name": "AchievementCategory",
+      "converter": {
+        "type": "link",
+        "target": "AchievementCategory"
+      }
+    },
+    {
+      "index": 1,
+      "name": "Name"
+    },
+    {
+      "index": 2,
+      "name": "Description"
+    },
+    {
+      "index": 3,
+      "name": "AchievementTarget"
+    },
+    {
+      "index": 4,
+      "name": "4"
+    },
+    {
+      "index": 5,
+      "name": "Points"
+    },
+    {
+      "index": 6,
+      "name": "Title",
+      "converter": {
+        "type": "link",
+        "target": "Title"
+      }
+    },
+    {
+      "index": 7,
+      "name": "Item",
+      "converter": {
+        "type": "link",
+        "target": "Item"
+      }
+    },
+    {
+      "index": 8,
+      "name": "8"
+    },
+    {
+      "index": 9,
+      "name": "9"
+    },
+    {
+      "index": 10,
+      "name": "10"
+    },
+    {
+      "index": 11,
+      "name": "Icon"
+    },
+    {
+      "index": 12,
+      "name": "12"
+    },
+    {
+      "index": 13,
+      "name": "Type"
+    },
+    {
+      "index": 14,
+      "name": "Key"
+    },
+    {
+      "index": 15,
+      "name": "Data"
+    },
+    {
+      "index": 16,
+      "name": "Data"
+    },
+    {
+      "index": 17,
+      "name": "Data"
+    },
+    {
+      "index": 18,
+      "name": "Data"
+    }
+  ]
+}

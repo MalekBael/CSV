@@ -1,0 +1,10 @@
+{
+  "sheet": "Specialshopitemcategory",
+  "defaultColumn": "Name",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Name"
+    }
+  ]
+}

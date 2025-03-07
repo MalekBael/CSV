@@ -1,0 +1,26 @@
+{
+  "sheet": "Chocobotaxi",
+  "defaultColumn": "Location",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Location"
+    },
+    {
+      "index": 2,
+      "name": "Fare"
+    },
+    {
+      "index": 3,
+      "name": "TimeRequired"
+    },
+    {
+      "index": 4,
+      "name": "3"
+    },
+    {
+      "index": 5,
+      "name": "4"
+    }
+  ]
+}

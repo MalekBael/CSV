@@ -1,0 +1,50 @@
+{
+  "sheet": "Notebookdivision",
+  "defaultColumn": "Name",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Name"
+    },
+    {
+      "index": 2,
+      "name": "NotebookDivisionCategory"
+    },
+    {
+      "index": 3,
+      "name": "CraftOpeningLevel"
+    },
+    {
+      "index": 4,
+      "name": "GatheringOpeningLevel"
+    },
+    {
+      "index": 5,
+      "name": "QuestUnlock"
+    },
+    {
+      "index": 6,
+      "name": "5"
+    },
+    {
+      "index": 7,
+      "name": "6"
+    },
+    {
+      "index": 8,
+      "name": "CRPCraft"
+    },
+    {
+      "index": 9,
+      "name": "BSMCraft"
+    },
+    {
+      "index": 10,
+      "name": "ARMCraft"
+    },
+    {
+      "index": 11,
+      "name": "GSMCraft"
+    }
+  ]
+}

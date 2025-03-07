@@ -1,0 +1,14 @@
+{
+  "sheet": "Defaulttalklipsynctype",
+  "defaultColumn": "ActionTimeline",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "ActionTimeline",
+      "converter": {
+        "type": "link",
+        "target": "ActionTimeline"
+      }
+    }
+  ]
+}

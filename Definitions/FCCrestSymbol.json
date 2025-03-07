@@ -1,0 +1,14 @@
+{
+  "sheet": "Fccrestsymbol",
+  "defaultColumn": "ColorNum",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "ColorNum"
+    },
+    {
+      "index": 2,
+      "name": "FCRight"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "sheet": "Cycletime",
+  "defaultColumn": "FirstCycle",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "FirstCycle"
+    },
+    {
+      "index": 2,
+      "name": "Cycle"
+    }
+  ]
+}

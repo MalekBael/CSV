@@ -1,0 +1,30 @@
+{
+  "sheet": "Itemsearchcategory",
+  "defaultColumn": "Name",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Name"
+    },
+    {
+      "index": 2,
+      "name": "Icon"
+    },
+    {
+      "index": 3,
+      "name": "Category"
+    },
+    {
+      "index": 4,
+      "name": "Order"
+    },
+    {
+      "index": 5,
+      "name": "ClassJob",
+      "converter": {
+        "type": "link",
+        "target": "ClassJob"
+      }
+    }
+  ]
+}

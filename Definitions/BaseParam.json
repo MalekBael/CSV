@@ -1,0 +1,134 @@
+{
+  "sheet": "Baseparam",
+  "defaultColumn": "PacketIndex",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "PacketIndex"
+    },
+    {
+      "index": 2,
+      "name": "Name"
+    },
+    {
+      "index": 3,
+      "name": "Description"
+    },
+    {
+      "index": 4,
+      "name": "OrderPriority"
+    },
+    {
+      "index": 5,
+      "name": "1HWpn%"
+    },
+    {
+      "index": 6,
+      "name": "OH<%>"
+    },
+    {
+      "index": 7,
+      "name": "Head<%>"
+    },
+    {
+      "index": 8,
+      "name": "Chest<%>"
+    },
+    {
+      "index": 9,
+      "name": "Hands<%>"
+    },
+    {
+      "index": 10,
+      "name": "Waist<%>"
+    },
+    {
+      "index": 11,
+      "name": "Legs<%>"
+    },
+    {
+      "index": 12,
+      "name": "Feet<%>"
+    },
+    {
+      "index": 13,
+      "name": "Earring<%>"
+    },
+    {
+      "index": 14,
+      "name": "Necklace<%>"
+    },
+    {
+      "index": 15,
+      "name": "Bracelet<%>"
+    },
+    {
+      "index": 16,
+      "name": "Ring<%>"
+    },
+    {
+      "index": 17,
+      "name": "2HWpn<%>"
+    },
+    {
+      "index": 18,
+      "name": "UnderArmor<%>"
+    },
+    {
+      "index": 19,
+      "name": "ChestHead<%>"
+    },
+    {
+      "index": 20,
+      "name": "ChestHeadLegsFeet<%>"
+    },
+    {
+      "index": 21,
+      "name": "20"
+    },
+    {
+      "index": 22,
+      "name": "LegsFeet<%>"
+    },
+    {
+      "index": 23,
+      "name": "HeadChestHandsLegsFeet<%>"
+    },
+    {
+      "index": 24,
+      "name": "ChestLegsGloves<%>"
+    },
+    {
+      "index": 25,
+      "name": "ChestLegsFeet<%>"
+    },
+    {
+      "index": 26,
+      "name": "25"
+    },
+    {
+      "index": 27,
+      "name": "MeldParam[0]"
+    },
+    {
+      "index": 28,
+      "name": "MeldParam[1]"
+    },
+    {
+      "index": 29,
+      "name": "MeldParam[2]"
+    },
+    {
+      "index": 30,
+      "name": "MeldParam[3]"
+    },
+    {
+      "index": 31,
+      "name": "MeldParam[4]"
+    },
+    {
+      "index": 32,
+      "name": "MeldParam[5]"
+    }
+  ]
+}

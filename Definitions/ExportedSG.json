@@ -1,0 +1,10 @@
+{
+  "sheet": "Exportedsg",
+  "defaultColumn": "SgbPath",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "SgbPath"
+    }
+  ]
+}

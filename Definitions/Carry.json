@@ -1,0 +1,14 @@
+{
+  "sheet": "Carry",
+  "defaultColumn": "Model",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Model"
+    },
+    {
+      "index": 2,
+      "name": "Timeline"
+    }
+  ]
+}

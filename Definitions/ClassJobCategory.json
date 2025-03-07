@@ -1,0 +1,126 @@
+{
+  "sheet": "Classjobcategory",
+  "defaultColumn": "Name",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Name"
+    },
+    {
+      "index": 2,
+      "name": "ADV"
+    },
+    {
+      "index": 3,
+      "name": "GLA"
+    },
+    {
+      "index": 4,
+      "name": "PGL"
+    },
+    {
+      "index": 5,
+      "name": "MRD"
+    },
+    {
+      "index": 6,
+      "name": "LNC"
+    },
+    {
+      "index": 7,
+      "name": "ARC"
+    },
+    {
+      "index": 8,
+      "name": "CNJ"
+    },
+    {
+      "index": 9,
+      "name": "THM"
+    },
+    {
+      "index": 10,
+      "name": "CRP"
+    },
+    {
+      "index": 11,
+      "name": "BSM"
+    },
+    {
+      "index": 12,
+      "name": "ARM"
+    },
+    {
+      "index": 13,
+      "name": "GSM"
+    },
+    {
+      "index": 14,
+      "name": "LTW"
+    },
+    {
+      "index": 15,
+      "name": "WVR"
+    },
+    {
+      "index": 16,
+      "name": "ALC"
+    },
+    {
+      "index": 17,
+      "name": "CUL"
+    },
+    {
+      "index": 18,
+      "name": "MIN"
+    },
+    {
+      "index": 19,
+      "name": "BTN"
+    },
+    {
+      "index": 20,
+      "name": "FSH"
+    },
+    {
+      "index": 21,
+      "name": "PLD"
+    },
+    {
+      "index": 22,
+      "name": "MNK"
+    },
+    {
+      "index": 23,
+      "name": "WAR"
+    },
+    {
+      "index": 24,
+      "name": "DRG"
+    },
+    {
+      "index": 25,
+      "name": "BRD"
+    },
+    {
+      "index": 26,
+      "name": "WHM"
+    },
+    {
+      "index": 27,
+      "name": "BLM"
+    },
+    {
+      "index": 28,
+      "name": "ACN"
+    },
+    {
+      "index": 29,
+      "name": "SMN"
+    },
+    {
+      "index": 30,
+      "name": "SCH"
+    }
+  ]
+}

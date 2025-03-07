@@ -1,0 +1,26 @@
+{
+  "sheet": "Motiontimeline",
+  "defaultColumn": "Filename",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Filename"
+    },
+    {
+      "index": 2,
+      "name": "BlendGroup"
+    },
+    {
+      "index": 3,
+      "name": "IsLoop"
+    },
+    {
+      "index": 4,
+      "name": "IsBlinkEnable"
+    },
+    {
+      "index": 5,
+      "name": "IsLipEnable"
+    }
+  ]
+}

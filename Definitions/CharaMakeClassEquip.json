@@ -1,0 +1,38 @@
+{
+  "sheet": "Charamakeclassequip",
+  "defaultColumn": "Helmet",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Helmet"
+    },
+    {
+      "index": 2,
+      "name": "Top"
+    },
+    {
+      "index": 3,
+      "name": "Glove"
+    },
+    {
+      "index": 4,
+      "name": "Down"
+    },
+    {
+      "index": 5,
+      "name": "Shoes"
+    },
+    {
+      "index": 6,
+      "name": "Weapon"
+    },
+    {
+      "index": 7,
+      "name": "SubWeapon"
+    },
+    {
+      "index": 8,
+      "name": "Class"
+    }
+  ]
+}

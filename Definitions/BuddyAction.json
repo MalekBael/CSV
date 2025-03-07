@@ -1,0 +1,26 @@
+{
+  "sheet": "Buddyaction",
+  "defaultColumn": "Name",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Name"
+    },
+    {
+      "index": 2,
+      "name": "Description"
+    },
+    {
+      "index": 3,
+      "name": "Icon"
+    },
+    {
+      "index": 4,
+      "name": "Icon{Status}"
+    },
+    {
+      "index": 5,
+      "name": "Reward"
+    }
+  ]
+}

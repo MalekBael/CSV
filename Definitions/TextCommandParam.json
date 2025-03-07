@@ -1,0 +1,10 @@
+{
+  "sheet": "Textcommandparam",
+  "defaultColumn": "Param",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Param"
+    }
+  ]
+}

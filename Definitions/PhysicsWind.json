@@ -1,0 +1,30 @@
+{
+  "sheet": "Physicswind",
+  "defaultColumn": "Threshold",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Threshold"
+    },
+    {
+      "index": 2,
+      "name": "Amplitude"
+    },
+    {
+      "index": 3,
+      "name": "AmplitudeFrequency"
+    },
+    {
+      "index": 4,
+      "name": "PowerMin"
+    },
+    {
+      "index": 5,
+      "name": "PowerMax"
+    },
+    {
+      "index": 6,
+      "name": "PowerFrequency"
+    }
+  ]
+}

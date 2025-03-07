@@ -1,0 +1,90 @@
+{
+  "sheet": "Defaulttalk",
+  "defaultColumn": "0",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "0"
+    },
+    {
+      "index": 2,
+      "name": "1"
+    },
+    {
+      "index": 3,
+      "name": "2"
+    },
+    {
+      "index": 4,
+      "name": "3"
+    },
+    {
+      "index": 5,
+      "name": "4"
+    },
+    {
+      "index": 6,
+      "name": "ActionTimeline{Pose}[0]"
+    },
+    {
+      "index": 7,
+      "name": "ActionTimeline{Pose}[1]"
+    },
+    {
+      "index": 8,
+      "name": "ActionTimeline{Pose}[2]"
+    },
+    {
+      "index": 9,
+      "name": "8"
+    },
+    {
+      "index": 10,
+      "name": "9"
+    },
+    {
+      "index": 11,
+      "name": "10"
+    },
+    {
+      "index": 12,
+      "name": "11"
+    },
+    {
+      "index": 13,
+      "name": "12"
+    },
+    {
+      "index": 14,
+      "name": "13"
+    },
+    {
+      "index": 15,
+      "name": "14"
+    },
+    {
+      "index": 16,
+      "name": "15"
+    },
+    {
+      "index": 17,
+      "name": "16"
+    },
+    {
+      "index": 18,
+      "name": "17"
+    },
+    {
+      "index": 19,
+      "name": "18"
+    },
+    {
+      "index": 20,
+      "name": "19"
+    },
+    {
+      "index": 21,
+      "name": "Text[0]"
+    }
+  ]
+}

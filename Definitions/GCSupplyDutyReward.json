@@ -1,0 +1,26 @@
+{
+  "sheet": "Gcsupplydutyreward",
+  "defaultColumn": "Experience{Supply}",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Experience{Supply}"
+    },
+    {
+      "index": 2,
+      "name": "Experience{Provisioning}"
+    },
+    {
+      "index": 3,
+      "name": "Seals{ExpertDelivery}"
+    },
+    {
+      "index": 4,
+      "name": "Seals{Supply}"
+    },
+    {
+      "index": 5,
+      "name": "Seals{Provisioning}"
+    }
+  ]
+}

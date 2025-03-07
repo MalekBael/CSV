@@ -1,0 +1,10 @@
+{
+  "sheet": "Battleleverule",
+  "defaultColumn": "Rule",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Rule"
+    }
+  ]
+}

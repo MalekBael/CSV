@@ -1,0 +1,94 @@
+{
+  "sheet": "Companion",
+  "defaultColumn": "Singular",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Singular"
+    },
+    {
+      "index": 2,
+      "name": "Adjective"
+    },
+    {
+      "index": 3,
+      "name": "Plural"
+    },
+    {
+      "index": 4,
+      "name": "PossessivePronoun"
+    },
+    {
+      "index": 5,
+      "name": "StartsWithVowel"
+    },
+    {
+      "index": 6,
+      "name": "5"
+    },
+    {
+      "index": 7,
+      "name": "Pronoun"
+    },
+    {
+      "index": 8,
+      "name": "Article"
+    },
+    {
+      "index": 9,
+      "name": "Model"
+    },
+    {
+      "index": 10,
+      "name": "Scale"
+    },
+    {
+      "index": 11,
+      "name": "InactiveIdle[0]"
+    },
+    {
+      "index": 12,
+      "name": "InactiveIdle[1]"
+    },
+    {
+      "index": 13,
+      "name": "InactiveBattle"
+    },
+    {
+      "index": 14,
+      "name": "InactiveWandering"
+    },
+    {
+      "index": 15,
+      "name": "Behavior",
+      "converter": {
+        "type": "link",
+        "target": "Behavior"
+      }
+    },
+    {
+      "index": 16,
+      "name": "Special"
+    },
+    {
+      "index": 17,
+      "name": "WanderingWait"
+    },
+    {
+      "index": 18,
+      "name": "Priority"
+    },
+    {
+      "index": 19,
+      "name": "18"
+    },
+    {
+      "index": 20,
+      "name": "19"
+    },
+    {
+      "index": 21,
+      "name": "20"
+    }
+  ]
+}

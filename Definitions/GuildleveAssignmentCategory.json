@@ -1,0 +1,38 @@
+{
+  "sheet": "Guildleveassignmentcategory",
+  "defaultColumn": "Category[0]",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Category[0]"
+    },
+    {
+      "index": 2,
+      "name": "Category[1]"
+    },
+    {
+      "index": 3,
+      "name": "Category[2]"
+    },
+    {
+      "index": 4,
+      "name": "Category[3]"
+    },
+    {
+      "index": 5,
+      "name": "Category[4]"
+    },
+    {
+      "index": 6,
+      "name": "Category[5]"
+    },
+    {
+      "index": 7,
+      "name": "Category[6]"
+    },
+    {
+      "index": 8,
+      "name": "Category[7]"
+    }
+  ]
+}

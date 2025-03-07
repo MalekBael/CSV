@@ -1,0 +1,10 @@
+{
+  "sheet": "Levestring",
+  "defaultColumn": "Objective",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Objective"
+    }
+  ]
+}

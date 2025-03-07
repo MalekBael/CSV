@@ -1,0 +1,30 @@
+{
+  "sheet": "Eventaction",
+  "defaultColumn": "Name",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Name"
+    },
+    {
+      "index": 2,
+      "name": "Icon"
+    },
+    {
+      "index": 3,
+      "name": "CastTime"
+    },
+    {
+      "index": 4,
+      "name": "Animation[0]"
+    },
+    {
+      "index": 5,
+      "name": "Animation[1]"
+    },
+    {
+      "index": 6,
+      "name": "Animation[2]"
+    }
+  ]
+}

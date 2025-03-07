@@ -1,0 +1,42 @@
+{
+  "sheet": "Beastreputationrank",
+  "defaultColumn": "RequiredReputation",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "RequiredReputation"
+    },
+    {
+      "index": 2,
+      "name": "Name"
+    },
+    {
+      "index": 3,
+      "name": "AlliedNames"
+    },
+    {
+      "index": 4,
+      "name": "Color"
+    },
+    {
+      "index": 5,
+      "name": "4"
+    },
+    {
+      "index": 6,
+      "name": "5"
+    },
+    {
+      "index": 7,
+      "name": "6"
+    },
+    {
+      "index": 8,
+      "name": "7"
+    },
+    {
+      "index": 9,
+      "name": "8"
+    }
+  ]
+}

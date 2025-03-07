@@ -1,0 +1,82 @@
+{
+  "sheet": "Status",
+  "defaultColumn": "Name",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Name"
+    },
+    {
+      "index": 2,
+      "name": "Description"
+    },
+    {
+      "index": 3,
+      "name": "Icon"
+    },
+    {
+      "index": 4,
+      "name": "3"
+    },
+    {
+      "index": 5,
+      "name": "MaxStacks"
+    },
+    {
+      "index": 6,
+      "name": "ClassJobCategory",
+      "converter": {
+        "type": "link",
+        "target": "ClassJobCategory"
+      }
+    },
+    {
+      "index": 7,
+      "name": "StatusCategory"
+    },
+    {
+      "index": 8,
+      "name": "HitEffect"
+    },
+    {
+      "index": 9,
+      "name": "VFX",
+      "converter": {
+        "type": "link",
+        "target": "VFX"
+      }
+    },
+    {
+      "index": 10,
+      "name": "LockMovement"
+    },
+    {
+      "index": 11,
+      "name": "10"
+    },
+    {
+      "index": 12,
+      "name": "LockActions"
+    },
+    {
+      "index": 13,
+      "name": "LockControl"
+    },
+    {
+      "index": 14,
+      "name": "Transfiguration"
+    },
+    {
+      "index": 15,
+      "name": "IsGaze"
+    },
+    {
+      "index": 16,
+      "name": "CanDispel"
+    },
+    {
+      "index": 17,
+      "name": "InflictedByActor"
+    }
+  ]
+}

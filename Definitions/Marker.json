@@ -1,0 +1,14 @@
+{
+  "sheet": "Marker",
+  "defaultColumn": "Icon",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Icon"
+    },
+    {
+      "index": 2,
+      "name": "1"
+    }
+  ]
+}

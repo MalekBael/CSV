@@ -1,0 +1,22 @@
+{
+  "sheet": "World",
+  "defaultColumn": "InternalName",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "InternalName"
+    },
+    {
+      "index": 2,
+      "name": "Name"
+    },
+    {
+      "index": 3,
+      "name": "Region"
+    },
+    {
+      "index": 4,
+      "name": "UserType"
+    }
+  ]
+}

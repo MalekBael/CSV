@@ -1,0 +1,14 @@
+{
+  "sheet": "Gatheringitempoint",
+  "defaultColumn": "GatheringPoint",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "GatheringPoint",
+      "converter": {
+        "type": "link",
+        "target": "GatheringPoint"
+      }
+    }
+  ]
+}

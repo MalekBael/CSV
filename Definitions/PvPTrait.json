@@ -1,0 +1,18 @@
+{
+  "sheet": "Pvptrait",
+  "defaultColumn": "Trait{1}",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Trait{1}"
+    },
+    {
+      "index": 2,
+      "name": "Trait{2}"
+    },
+    {
+      "index": 3,
+      "name": "Trait{3}"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "sheet": "Leverewarditemgroup",
+  "defaultColumn": "Item[0]",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Item[0]"
+    },
+    {
+      "index": 2,
+      "name": "Count[0]"
+    },
+    {
+      "index": 3,
+      "name": "HQ[0]"
+    },
+    {
+      "index": 4,
+      "name": "Item[1]"
+    },
+    {
+      "index": 5,
+      "name": "Count[1]"
+    },
+    {
+      "index": 6,
+      "name": "HQ[1]"
+    },
+    {
+      "index": 7,
+      "name": "Item[2]"
+    },
+    {
+      "index": 8,
+      "name": "Count[2]"
+    },
+    {
+      "index": 9,
+      "name": "HQ[2]"
+    },
+    {
+      "index": 10,
+      "name": "Item[3]"
+    },
+    {
+      "index": 11,
+      "name": "Count[3]"
+    },
+    {
+      "index": 12,
+      "name": "HQ[3]"
+    },
+    {
+      "index": 13,
+      "name": "Item[4]"
+    },
+    {
+      "index": 14,
+      "name": "Count[4]"
+    },
+    {
+      "index": 15,
+      "name": "HQ[4]"
+    },
+    {
+      "index": 16,
+      "name": "Item[5]"
+    },
+    {
+      "index": 17,
+      "name": "Count[5]"
+    },
+    {
+      "index": 18,
+      "name": "HQ[5]"
+    },
+    {
+      "index": 19,
+      "name": "Item[6]"
+    },
+    {
+      "index": 20,
+      "name": "Count[6]"
+    },
+    {
+      "index": 21,
+      "name": "HQ[6]"
+    },
+    {
+      "index": 22,
+      "name": "Item[7]"
+    },
+    {
+      "index": 23,
+      "name": "Count[7]"
+    },
+    {
+      "index": 24,
+      "name": "HQ[7]"
+    }
+  ]
+}

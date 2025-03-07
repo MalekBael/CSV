@@ -1,0 +1,62 @@
+{
+  "sheet": "Howto",
+  "defaultColumn": "Name",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Name"
+    },
+    {
+      "index": 2,
+      "name": "Announce"
+    },
+    {
+      "index": 3,
+      "name": "HowToPagePC[0]"
+    },
+    {
+      "index": 4,
+      "name": "HowToPagePC[1]"
+    },
+    {
+      "index": 5,
+      "name": "HowToPagePC[2]"
+    },
+    {
+      "index": 6,
+      "name": "HowToPagePC[3]"
+    },
+    {
+      "index": 7,
+      "name": "HowToPagePC[4]"
+    },
+    {
+      "index": 8,
+      "name": "HowToPageController[0]"
+    },
+    {
+      "index": 9,
+      "name": "HowToPageController[1]"
+    },
+    {
+      "index": 10,
+      "name": "HowToPageController[2]"
+    },
+    {
+      "index": 11,
+      "name": "HowToPageController[3]"
+    },
+    {
+      "index": 12,
+      "name": "HowToPageController[4]"
+    },
+    {
+      "index": 13,
+      "name": "Category"
+    },
+    {
+      "index": 14,
+      "name": "Sort"
+    }
+  ]
+}

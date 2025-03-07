@@ -1,0 +1,78 @@
+{
+  "sheet": "Itemfood",
+  "defaultColumn": "EXPBonus%",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "EXPBonus%"
+    },
+    {
+      "index": 2,
+      "name": "BaseParam[0]"
+    },
+    {
+      "index": 3,
+      "name": "IsRelative[0]"
+    },
+    {
+      "index": 4,
+      "name": "Value[0]"
+    },
+    {
+      "index": 5,
+      "name": "Max[0]"
+    },
+    {
+      "index": 6,
+      "name": "Value{HQ}[0]"
+    },
+    {
+      "index": 7,
+      "name": "Max{HQ}[0]"
+    },
+    {
+      "index": 8,
+      "name": "BaseParam[1]"
+    },
+    {
+      "index": 9,
+      "name": "IsRelative[1]"
+    },
+    {
+      "index": 10,
+      "name": "Value[1]"
+    },
+    {
+      "index": 11,
+      "name": "Max[1]"
+    },
+    {
+      "index": 12,
+      "name": "Value{HQ}[1]"
+    },
+    {
+      "index": 13,
+      "name": "Max{HQ}[1]"
+    },
+    {
+      "index": 14,
+      "name": "BaseParam[2]"
+    },
+    {
+      "index": 15,
+      "name": "IsRelative[2]"
+    },
+    {
+      "index": 16,
+      "name": "Value[2]"
+    },
+    {
+      "index": 17,
+      "name": "Max[2]"
+    },
+    {
+      "index": 18,
+      "name": "Value{HQ}[2]"
+    }
+  ]
+}

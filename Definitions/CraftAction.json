@@ -1,0 +1,82 @@
+{
+  "sheet": "Craftaction",
+  "defaultColumn": "Name",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Name"
+    },
+    {
+      "index": 2,
+      "name": "Description"
+    },
+    {
+      "index": 3,
+      "name": "Animation{Start}"
+    },
+    {
+      "index": 4,
+      "name": "Animation{End}"
+    },
+    {
+      "index": 5,
+      "name": "Icon"
+    },
+    {
+      "index": 6,
+      "name": "ClassJob",
+      "converter": {
+        "type": "link",
+        "target": "ClassJob"
+      }
+    },
+    {
+      "index": 7,
+      "name": "ClassJobCategory",
+      "converter": {
+        "type": "link",
+        "target": "ClassJobCategory"
+      }
+    },
+    {
+      "index": 8,
+      "name": "ClassJobLevel"
+    },
+    {
+      "index": 9,
+      "name": "QuestRequirement"
+    },
+    {
+      "index": 10,
+      "name": "Specialist"
+    },
+    {
+      "index": 11,
+      "name": "10"
+    },
+    {
+      "index": 12,
+      "name": "Cost"
+    },
+    {
+      "index": 13,
+      "name": "CRP"
+    },
+    {
+      "index": 14,
+      "name": "BSM"
+    },
+    {
+      "index": 15,
+      "name": "ARM"
+    },
+    {
+      "index": 16,
+      "name": "GSM"
+    },
+    {
+      "index": 17,
+      "name": "LTW"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "sheet": "Race",
+  "defaultColumn": "Masculine",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Masculine"
+    },
+    {
+      "index": 2,
+      "name": "Feminine"
+    },
+    {
+      "index": 3,
+      "name": "RSE{M}{Body}"
+    },
+    {
+      "index": 4,
+      "name": "RSE{M}{Hands}"
+    },
+    {
+      "index": 5,
+      "name": "RSE{M}{Legs}"
+    },
+    {
+      "index": 6,
+      "name": "RSE{M}{Feet}"
+    },
+    {
+      "index": 7,
+      "name": "RSE{F}{Body}"
+    },
+    {
+      "index": 8,
+      "name": "RSE{F}{Hands}"
+    },
+    {
+      "index": 9,
+      "name": "RSE{F}{Legs}"
+    },
+    {
+      "index": 10,
+      "name": "RSE{F}{Feet}"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "sheet": "Worlddcgrouptype",
+  "defaultColumn": "Name",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Name"
+    }
+  ]
+}

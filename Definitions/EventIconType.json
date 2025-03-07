@@ -1,0 +1,18 @@
+{
+  "sheet": "Eventicontype",
+  "defaultColumn": "NpcIcon{Available}",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "NpcIcon{Available}"
+    },
+    {
+      "index": 2,
+      "name": "MapIcon{Available}"
+    },
+    {
+      "index": 3,
+      "name": "NpcIcon{Invalid}"
+    }
+  ]
+}

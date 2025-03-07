@@ -1,0 +1,70 @@
+{
+  "sheet": "Leverewarditem",
+  "defaultColumn": "LeveRewardItemGroup[0]",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "LeveRewardItemGroup[0]"
+    },
+    {
+      "index": 2,
+      "name": "Probability<%>[0]"
+    },
+    {
+      "index": 3,
+      "name": "LeveRewardItemGroup[1]"
+    },
+    {
+      "index": 4,
+      "name": "Probability<%>[1]"
+    },
+    {
+      "index": 5,
+      "name": "LeveRewardItemGroup[2]"
+    },
+    {
+      "index": 6,
+      "name": "Probability<%>[2]"
+    },
+    {
+      "index": 7,
+      "name": "LeveRewardItemGroup[3]"
+    },
+    {
+      "index": 8,
+      "name": "Probability<%>[3]"
+    },
+    {
+      "index": 9,
+      "name": "LeveRewardItemGroup[4]"
+    },
+    {
+      "index": 10,
+      "name": "Probability<%>[4]"
+    },
+    {
+      "index": 11,
+      "name": "LeveRewardItemGroup[5]"
+    },
+    {
+      "index": 12,
+      "name": "Probability<%>[5]"
+    },
+    {
+      "index": 13,
+      "name": "LeveRewardItemGroup[6]"
+    },
+    {
+      "index": 14,
+      "name": "Probability<%>[6]"
+    },
+    {
+      "index": 15,
+      "name": "LeveRewardItemGroup[7]"
+    },
+    {
+      "index": 16,
+      "name": "Probability<%>[7]"
+    }
+  ]
+}

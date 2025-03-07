@@ -1,0 +1,62 @@
+{
+  "sheet": "Paramgrow",
+  "defaultColumn": "ExpToNext",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "ExpToNext"
+    },
+    {
+      "index": 2,
+      "name": "AdditionalActions"
+    },
+    {
+      "index": 3,
+      "name": "ApplyAction"
+    },
+    {
+      "index": 4,
+      "name": "ScaledQuestXP"
+    },
+    {
+      "index": 5,
+      "name": "MpModifier"
+    },
+    {
+      "index": 6,
+      "name": "BaseSpeed"
+    },
+    {
+      "index": 7,
+      "name": "LevelModifier"
+    },
+    {
+      "index": 8,
+      "name": "QuestExpModifier"
+    },
+    {
+      "index": 9,
+      "name": "HpModifier"
+    },
+    {
+      "index": 10,
+      "name": "HuntingLogExpReward"
+    },
+    {
+      "index": 11,
+      "name": "MonsterNoteSeals"
+    },
+    {
+      "index": 12,
+      "name": "ItemLevelSync"
+    },
+    {
+      "index": 13,
+      "name": "ProperDungeon"
+    },
+    {
+      "index": 14,
+      "name": "ProperGuildOrder"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "sheet": "Addon",
+  "defaultColumn": "Text",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Text"
+    }
+  ]
+}

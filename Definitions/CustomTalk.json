@@ -1,0 +1,282 @@
+{
+  "sheet": "Customtalk",
+  "defaultColumn": "Icon{Actor}",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Icon{Actor}"
+    },
+    {
+      "index": 2,
+      "name": "Icon{Map}"
+    },
+    {
+      "index": 3,
+      "name": "Name"
+    },
+    {
+      "index": 4,
+      "name": "Script{Instruction}[0]"
+    },
+    {
+      "index": 5,
+      "name": "Script{Instruction}[1]"
+    },
+    {
+      "index": 6,
+      "name": "Script{Instruction}[2]"
+    },
+    {
+      "index": 7,
+      "name": "Script{Instruction}[3]"
+    },
+    {
+      "index": 8,
+      "name": "Script{Instruction}[4]"
+    },
+    {
+      "index": 9,
+      "name": "Script{Instruction}[5]"
+    },
+    {
+      "index": 10,
+      "name": "Script{Instruction}[6]"
+    },
+    {
+      "index": 11,
+      "name": "Script{Instruction}[7]"
+    },
+    {
+      "index": 12,
+      "name": "Script{Instruction}[8]"
+    },
+    {
+      "index": 13,
+      "name": "Script{Instruction}[9]"
+    },
+    {
+      "index": 14,
+      "name": "Script{Instruction}[10]"
+    },
+    {
+      "index": 15,
+      "name": "Script{Instruction}[11]"
+    },
+    {
+      "index": 16,
+      "name": "Script{Instruction}[12]"
+    },
+    {
+      "index": 17,
+      "name": "Script{Instruction}[13]"
+    },
+    {
+      "index": 18,
+      "name": "Script{Instruction}[14]"
+    },
+    {
+      "index": 19,
+      "name": "Script{Instruction}[15]"
+    },
+    {
+      "index": 20,
+      "name": "Script{Instruction}[16]"
+    },
+    {
+      "index": 21,
+      "name": "Script{Instruction}[17]"
+    },
+    {
+      "index": 22,
+      "name": "Script{Instruction}[18]"
+    },
+    {
+      "index": 23,
+      "name": "Script{Instruction}[19]"
+    },
+    {
+      "index": 24,
+      "name": "Script{Instruction}[20]"
+    },
+    {
+      "index": 25,
+      "name": "Script{Instruction}[21]"
+    },
+    {
+      "index": 26,
+      "name": "Script{Instruction}[22]"
+    },
+    {
+      "index": 27,
+      "name": "Script{Instruction}[23]"
+    },
+    {
+      "index": 28,
+      "name": "Script{Instruction}[24]"
+    },
+    {
+      "index": 29,
+      "name": "Script{Instruction}[25]"
+    },
+    {
+      "index": 30,
+      "name": "Script{Instruction}[26]"
+    },
+    {
+      "index": 31,
+      "name": "Script{Instruction}[27]"
+    },
+    {
+      "index": 32,
+      "name": "Script{Instruction}[28]"
+    },
+    {
+      "index": 33,
+      "name": "Script{Instruction}[29]"
+    },
+    {
+      "index": 34,
+      "name": "Script{Arg}[0]"
+    },
+    {
+      "index": 35,
+      "name": "Script{Arg}[1]"
+    },
+    {
+      "index": 36,
+      "name": "Script{Arg}[2]"
+    },
+    {
+      "index": 37,
+      "name": "Script{Arg}[3]"
+    },
+    {
+      "index": 38,
+      "name": "Script{Arg}[4]"
+    },
+    {
+      "index": 39,
+      "name": "Script{Arg}[5]"
+    },
+    {
+      "index": 40,
+      "name": "Script{Arg}[6]"
+    },
+    {
+      "index": 41,
+      "name": "Script{Arg}[7]"
+    },
+    {
+      "index": 42,
+      "name": "Script{Arg}[8]"
+    },
+    {
+      "index": 43,
+      "name": "Script{Arg}[9]"
+    },
+    {
+      "index": 44,
+      "name": "Script{Arg}[10]"
+    },
+    {
+      "index": 45,
+      "name": "Script{Arg}[11]"
+    },
+    {
+      "index": 46,
+      "name": "Script{Arg}[12]"
+    },
+    {
+      "index": 47,
+      "name": "Script{Arg}[13]"
+    },
+    {
+      "index": 48,
+      "name": "Script{Arg}[14]"
+    },
+    {
+      "index": 49,
+      "name": "Script{Arg}[15]"
+    },
+    {
+      "index": 50,
+      "name": "Script{Arg}[16]"
+    },
+    {
+      "index": 51,
+      "name": "Script{Arg}[17]"
+    },
+    {
+      "index": 52,
+      "name": "Script{Arg}[18]"
+    },
+    {
+      "index": 53,
+      "name": "Script{Arg}[19]"
+    },
+    {
+      "index": 54,
+      "name": "Script{Arg}[20]"
+    },
+    {
+      "index": 55,
+      "name": "Script{Arg}[21]"
+    },
+    {
+      "index": 56,
+      "name": "Script{Arg}[22]"
+    },
+    {
+      "index": 57,
+      "name": "Script{Arg}[23]"
+    },
+    {
+      "index": 58,
+      "name": "Script{Arg}[24]"
+    },
+    {
+      "index": 59,
+      "name": "Script{Arg}[25]"
+    },
+    {
+      "index": 60,
+      "name": "Script{Arg}[26]"
+    },
+    {
+      "index": 61,
+      "name": "Script{Arg}[27]"
+    },
+    {
+      "index": 62,
+      "name": "Script{Arg}[28]"
+    },
+    {
+      "index": 63,
+      "name": "Script{Arg}[29]"
+    },
+    {
+      "index": 64,
+      "name": "63"
+    },
+    {
+      "index": 65,
+      "name": "MainOption"
+    },
+    {
+      "index": 66,
+      "name": "SubOption"
+    },
+    {
+      "index": 67,
+      "name": "66"
+    },
+    {
+      "index": 68,
+      "name": "67"
+    },
+    {
+      "index": 69,
+      "name": "68"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "sheet": "Omen",
+  "defaultColumn": "Path",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Path"
+    },
+    {
+      "index": 2,
+      "name": "PathAlly"
+    },
+    {
+      "index": 3,
+      "name": "Type"
+    }
+  ]
+}

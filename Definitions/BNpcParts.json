@@ -1,0 +1,102 @@
+{
+  "sheet": "Bnpcparts",
+  "defaultColumn": "BNpcBase[1]",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "BNpcBase[1]"
+    },
+    {
+      "index": 2,
+      "name": "PartSlot[1]"
+    },
+    {
+      "index": 3,
+      "name": "2"
+    },
+    {
+      "index": 4,
+      "name": "3"
+    },
+    {
+      "index": 5,
+      "name": "4"
+    },
+    {
+      "index": 6,
+      "name": "5"
+    },
+    {
+      "index": 7,
+      "name": "X[1]"
+    },
+    {
+      "index": 8,
+      "name": "Y[1]"
+    },
+    {
+      "index": 9,
+      "name": "Z[1]"
+    },
+    {
+      "index": 10,
+      "name": "9"
+    },
+    {
+      "index": 11,
+      "name": "Scale[1]"
+    },
+    {
+      "index": 12,
+      "name": "BNpcBase[2]"
+    },
+    {
+      "index": 13,
+      "name": "PartSlot[2]"
+    },
+    {
+      "index": 14,
+      "name": "13"
+    },
+    {
+      "index": 15,
+      "name": "14"
+    },
+    {
+      "index": 16,
+      "name": "15"
+    },
+    {
+      "index": 17,
+      "name": "16"
+    },
+    {
+      "index": 18,
+      "name": "X[2]"
+    },
+    {
+      "index": 19,
+      "name": "Y[2]"
+    },
+    {
+      "index": 20,
+      "name": "Z[2]"
+    },
+    {
+      "index": 21,
+      "name": "20"
+    },
+    {
+      "index": 22,
+      "name": "Scale[2]"
+    },
+    {
+      "index": 23,
+      "name": "BNpcBase[3]"
+    },
+    {
+      "index": 24,
+      "name": "PartSlot[3]"
+    }
+  ]
+}

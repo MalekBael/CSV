@@ -1,0 +1,22 @@
+{
+  "sheet": "Bgmfade",
+  "defaultColumn": "SceneOut",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "SceneOut"
+    },
+    {
+      "index": 2,
+      "name": "SceneIn"
+    },
+    {
+      "index": 3,
+      "name": "BGMFadeType",
+      "converter": {
+        "type": "link",
+        "target": "BGMFadeType"
+      }
+    }
+  ]
+}

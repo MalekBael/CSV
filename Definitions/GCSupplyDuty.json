@@ -1,0 +1,270 @@
+{
+  "sheet": "Gcsupplyduty",
+  "defaultColumn": "Item[0][0]",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Item[0][0]"
+    },
+    {
+      "index": 2,
+      "name": "ItemCount[0][0]"
+    },
+    {
+      "index": 3,
+      "name": "Item[1][0]"
+    },
+    {
+      "index": 4,
+      "name": "ItemCount[1][0]"
+    },
+    {
+      "index": 5,
+      "name": "Item[2][0]"
+    },
+    {
+      "index": 6,
+      "name": "ItemCount[2][0]"
+    },
+    {
+      "index": 7,
+      "name": "Item[0][1]"
+    },
+    {
+      "index": 8,
+      "name": "ItemCount[0][1]"
+    },
+    {
+      "index": 9,
+      "name": "Item[1][1]"
+    },
+    {
+      "index": 10,
+      "name": "ItemCount[1][1]"
+    },
+    {
+      "index": 11,
+      "name": "Item[2][1]"
+    },
+    {
+      "index": 12,
+      "name": "ItemCount[2][1]"
+    },
+    {
+      "index": 13,
+      "name": "Item[0][2]"
+    },
+    {
+      "index": 14,
+      "name": "ItemCount[0][2]"
+    },
+    {
+      "index": 15,
+      "name": "Item[1][2]"
+    },
+    {
+      "index": 16,
+      "name": "ItemCount[1][2]"
+    },
+    {
+      "index": 17,
+      "name": "Item[2][2]"
+    },
+    {
+      "index": 18,
+      "name": "ItemCount[2][2]"
+    },
+    {
+      "index": 19,
+      "name": "Item[0][3]"
+    },
+    {
+      "index": 20,
+      "name": "ItemCount[0][3]"
+    },
+    {
+      "index": 21,
+      "name": "Item[1][3]"
+    },
+    {
+      "index": 22,
+      "name": "ItemCount[1][3]"
+    },
+    {
+      "index": 23,
+      "name": "Item[2][3]"
+    },
+    {
+      "index": 24,
+      "name": "ItemCount[2][3]"
+    },
+    {
+      "index": 25,
+      "name": "Item[0][4]"
+    },
+    {
+      "index": 26,
+      "name": "ItemCount[0][4]"
+    },
+    {
+      "index": 27,
+      "name": "Item[1][4]"
+    },
+    {
+      "index": 28,
+      "name": "ItemCount[1][4]"
+    },
+    {
+      "index": 29,
+      "name": "Item[2][4]"
+    },
+    {
+      "index": 30,
+      "name": "ItemCount[2][4]"
+    },
+    {
+      "index": 31,
+      "name": "Item[0][5]"
+    },
+    {
+      "index": 32,
+      "name": "ItemCount[0][5]"
+    },
+    {
+      "index": 33,
+      "name": "Item[1][5]"
+    },
+    {
+      "index": 34,
+      "name": "ItemCount[1][5]"
+    },
+    {
+      "index": 35,
+      "name": "Item[2][5]"
+    },
+    {
+      "index": 36,
+      "name": "ItemCount[2][5]"
+    },
+    {
+      "index": 37,
+      "name": "Item[0][6]"
+    },
+    {
+      "index": 38,
+      "name": "ItemCount[0][6]"
+    },
+    {
+      "index": 39,
+      "name": "Item[1][6]"
+    },
+    {
+      "index": 40,
+      "name": "ItemCount[1][6]"
+    },
+    {
+      "index": 41,
+      "name": "Item[2][6]"
+    },
+    {
+      "index": 42,
+      "name": "ItemCount[2][6]"
+    },
+    {
+      "index": 43,
+      "name": "Item[0][7]"
+    },
+    {
+      "index": 44,
+      "name": "ItemCount[0][7]"
+    },
+    {
+      "index": 45,
+      "name": "Item[1][7]"
+    },
+    {
+      "index": 46,
+      "name": "ItemCount[1][7]"
+    },
+    {
+      "index": 47,
+      "name": "Item[2][7]"
+    },
+    {
+      "index": 48,
+      "name": "ItemCount[2][7]"
+    },
+    {
+      "index": 49,
+      "name": "Item[0][8]"
+    },
+    {
+      "index": 50,
+      "name": "ItemCount[0][8]"
+    },
+    {
+      "index": 51,
+      "name": "Item[1][8]"
+    },
+    {
+      "index": 52,
+      "name": "ItemCount[1][8]"
+    },
+    {
+      "index": 53,
+      "name": "Item[2][8]"
+    },
+    {
+      "index": 54,
+      "name": "ItemCount[2][8]"
+    },
+    {
+      "index": 55,
+      "name": "Item[0][9]"
+    },
+    {
+      "index": 56,
+      "name": "ItemCount[0][9]"
+    },
+    {
+      "index": 57,
+      "name": "Item[1][9]"
+    },
+    {
+      "index": 58,
+      "name": "ItemCount[1][9]"
+    },
+    {
+      "index": 59,
+      "name": "Item[2][9]"
+    },
+    {
+      "index": 60,
+      "name": "ItemCount[2][9]"
+    },
+    {
+      "index": 61,
+      "name": "Item[0][10]"
+    },
+    {
+      "index": 62,
+      "name": "ItemCount[0][10]"
+    },
+    {
+      "index": 63,
+      "name": "Item[1][10]"
+    },
+    {
+      "index": 64,
+      "name": "ItemCount[1][10]"
+    },
+    {
+      "index": 65,
+      "name": "Item[2][10]"
+    },
+    {
+      "index": 66,
+      "name": "ItemCount[2][10]"
+    }
+  ]
+}

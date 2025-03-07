@@ -1,0 +1,14 @@
+{
+  "sheet": "Moviesubtitle",
+  "defaultColumn": "StartTime",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "StartTime"
+    },
+    {
+      "index": 2,
+      "name": "EndTime"
+    }
+  ]
+}

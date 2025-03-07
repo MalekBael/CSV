@@ -1,0 +1,110 @@
+{
+  "sheet": "Aetheryte",
+  "defaultColumn": "Singular",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Singular"
+    },
+    {
+      "index": 2,
+      "name": "Adjective"
+    },
+    {
+      "index": 3,
+      "name": "Plural"
+    },
+    {
+      "index": 4,
+      "name": "PossessivePronoun"
+    },
+    {
+      "index": 5,
+      "name": "StartsWithVowel"
+    },
+    {
+      "index": 6,
+      "name": "5"
+    },
+    {
+      "index": 7,
+      "name": "Pronoun"
+    },
+    {
+      "index": 8,
+      "name": "Article"
+    },
+    {
+      "index": 9,
+      "name": "PlaceName",
+      "converter": {
+        "type": "link",
+        "target": "PlaceName"
+      }
+    },
+    {
+      "index": 10,
+      "name": "AethernetName"
+    },
+    {
+      "index": 11,
+      "name": "Territory"
+    },
+    {
+      "index": 12,
+      "name": "Level[0]"
+    },
+    {
+      "index": 13,
+      "name": "Level[1]"
+    },
+    {
+      "index": 14,
+      "name": "Level[2]"
+    },
+    {
+      "index": 15,
+      "name": "Level[3]"
+    },
+    {
+      "index": 16,
+      "name": "IsAetheryte"
+    },
+    {
+      "index": 17,
+      "name": "16"
+    },
+    {
+      "index": 18,
+      "name": "17"
+    },
+    {
+      "index": 19,
+      "name": "AethernetGroup"
+    },
+    {
+      "index": 20,
+      "name": "Invisible"
+    },
+    {
+      "index": 21,
+      "name": "RequiredQuest"
+    },
+    {
+      "index": 22,
+      "name": "Map",
+      "converter": {
+        "type": "link",
+        "target": "Map"
+      }
+    },
+    {
+      "index": 23,
+      "name": "Aetherstream{X}"
+    },
+    {
+      "index": 24,
+      "name": "Aetherstream{Y}"
+    }
+  ]
+}

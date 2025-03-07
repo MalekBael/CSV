@@ -1,0 +1,22 @@
+{
+  "sheet": "Screenimage",
+  "defaultColumn": "Image",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Image"
+    },
+    {
+      "index": 2,
+      "name": "Jingle",
+      "converter": {
+        "type": "link",
+        "target": "Jingle"
+      }
+    },
+    {
+      "index": 3,
+      "name": "Type"
+    }
+  ]
+}

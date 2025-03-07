@@ -1,0 +1,22 @@
+{
+  "sheet": "Journalgenre",
+  "defaultColumn": "Icon",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Icon"
+    },
+    {
+      "index": 2,
+      "name": "JournalCategory",
+      "converter": {
+        "type": "link",
+        "target": "JournalCategory"
+      }
+    },
+    {
+      "index": 3,
+      "name": "2"
+    }
+  ]
+}

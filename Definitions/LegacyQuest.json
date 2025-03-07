@@ -1,0 +1,26 @@
+{
+  "sheet": "Legacyquest",
+  "defaultColumn": "LegacyQuestID",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "LegacyQuestID"
+    },
+    {
+      "index": 2,
+      "name": "Text"
+    },
+    {
+      "index": 3,
+      "name": "String"
+    },
+    {
+      "index": 4,
+      "name": "SortKey"
+    },
+    {
+      "index": 5,
+      "name": "Genre"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "sheet": "Howtocategory",
+  "defaultColumn": "Category",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "Category"
+    }
+  ]
+}

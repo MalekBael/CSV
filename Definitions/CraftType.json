@@ -1,0 +1,18 @@
+{
+  "sheet": "Crafttype",
+  "defaultColumn": "MainPhysical",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "MainPhysical"
+    },
+    {
+      "index": 2,
+      "name": "SubPhysical"
+    },
+    {
+      "index": 3,
+      "name": "Name"
+    }
+  ]
+}

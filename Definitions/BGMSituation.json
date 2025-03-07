@@ -1,0 +1,26 @@
+{
+  "sheet": "Bgmsituation",
+  "defaultColumn": "DaytimeID",
+  "definitions": [
+    {
+      "index": 1,
+      "name": "DaytimeID"
+    },
+    {
+      "index": 2,
+      "name": "NightID"
+    },
+    {
+      "index": 3,
+      "name": "BattleID"
+    },
+    {
+      "index": 4,
+      "name": "DaybreakID"
+    },
+    {
+      "index": 5,
+      "name": "TwilightID"
+    }
+  ]
+}
