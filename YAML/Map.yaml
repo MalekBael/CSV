@@ -1,0 +1,28 @@
+name: Map
+displayField: PlaceName
+fields:
+  - name: MapCondition
+  - name: PriorityCategoryUI
+  - name: Hierarchy
+  - name: PriorityUI
+  - name: MapMarkerRange
+  - name: Id
+  - name: SizeFactor
+  - name: OffsetX
+  - name: OffsetY
+  - name: PlaceNameRegion
+    type: link
+    targets: [PlaceName]
+  - name: PlaceName
+    type: link
+    targets: [PlaceName]
+  - name: PlaceNameSub
+    type: link
+    targets: [PlaceName]
+  - name: DiscoveryIndex
+  - name: DiscoveryFlag
+  - name: TerritoryType
+    type: link
+    targets: [TerritoryType]
+  - name: Unknown2
+  - name: Unknown0

@@ -1,0 +1,16 @@
+name: MapMarker
+fields:
+  - name: X
+  - name: Y
+  - name: Icon
+    type: icon
+  - name: PlaceNameSubtext
+    type: link
+  - target: [PlaceName]
+  - name: SubtextOrientation
+  - name: MapMarkerRegion
+  - name: Type
+  - name: Datakey
+  - name: DataType
+  - name: Unknown0
+

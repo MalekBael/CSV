@@ -1,0 +1,53 @@
+name: TerritoryType
+displayField: Name
+fields:
+  - name: Name
+  - name: Bg
+  - name: Resident
+  - name: PlaceNameRegion
+    targets: [PlaceName]
+  - name: PlaceNameZone
+    type: link
+    targets: [PlaceName]
+  - name: PlaceName
+    type: link
+    targets: [PlaceName]
+  - name: Map
+    type: link
+    targets: [Map]
+  - name: NotoriousMonsterTerritory
+  - name: BattalionMode
+  - name: ContentFinderCondition
+    type: link
+    targets: [ContenFinderCondition]
+  - name: LoadingImage
+  - name: ExclusiveType  
+  - name: AetherCurrentCompFlgSet
+    type: link
+    targets: [AetherCurrentCompFlgSet]
+  - name: MountSpeed
+  - name: IndividualWeather
+  - name: BGM
+    type: link
+    targets: [BGM]
+  - name: PlaceNameRegionIcon
+  - name: PlaceNameIcon
+  - name: ArrayEventHandler
+  - name: QuestBattle
+    type: link
+    targets: [QuestBattle]
+  - name: Aetheryte
+    type: link
+    targets: [Aetheryte]
+  - name: FixedTime 
+  - name: TerritoryIntendedUse
+    type: link
+    targets: [TerritoryIntendedUse]
+  - name: Unknown2 
+  - name: ZoneSharedGroup
+  - name: AchievementIndex
+  - name: WeatherRate
+    type: link
+    targets: [WeatherRate]
+  - name: Unknown1
+  - name: ExVersion

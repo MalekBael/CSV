@@ -17,7 +17,13 @@
 mono_crash.*
 
 # Build results
+menu.spec
+/build
+.jython_cache
 /CSV/*
+/notes
+/dist
+!/Combined_definitions/.gitkeep
 !/CSV/.gitkeep
 /Definitions/*.json
 !/Definitions/.gitkeep
@@ -36,6 +42,8 @@ bld/
 [Oo]ut/
 [Ll]og/
 [Ll]ogs/
+
+Template/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
